@@ -2,6 +2,8 @@
 
 A curated resources of raft consensus algorithm and its friends.
 
+**NOTE**: Contributions are welcome, just create a pull request!
+
 ## Raft 
 
 ### Algoritm
