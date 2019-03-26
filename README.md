@@ -20,6 +20,7 @@ Due to its simplicity, raft is widely implemented in different lanaguages and so
 - [hashicorp/raft](https://github.com/hashicorp/raft): another golang implementation used among hashicorp applications
 - [brpc/braft](https://github.com/brpc/braft): C++ implementation open sourced by Baidu Inc.
 - [alipay/sofa-jraft](https://github.com/alipay/sofa-jraft): Java implementation by Alipay Inc.
+- [wenweihu86/raft-java](https://github.com/wenweihu86/raft-java): Raft Java implementation that are simple and easy to understand.
 
 ## Raft Friends
 
