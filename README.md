@@ -47,3 +47,4 @@ Zab protocal is used by Zookeeper, and is proven to be a solid and practical.
 There are other distributed system, consensus algorithm repo you might be interested:
 
 - [Awesome Consensus](https://github.com/dgryski/awesome-consensus)
+- [Awesome Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems)
